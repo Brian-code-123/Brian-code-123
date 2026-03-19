@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4" />
+      <stop offset="1" stop-color="#7c3aed" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#0b1220" />
+  <g font-family="Fira Sans, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="50%" y="48%" fill="url(#g)" font-size="36" font-weight="700">Brian — Full‑Stack Developer</text>
+    <text x="50%" y="74%" fill="#9CA3AF" font-size="16">Clean code • API design • Web architecture • Open‑source</text>
+  </g>
+</svg>
