@@ -1,61 +1,34 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Developer;🚀+Clean+Code+Enthusiast;⚡+Problem+Solver;☕+Coffee+%2B+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Developer;🚀+Open+Source +Enthusiast;⚡+Tech+Explorer;☕+Coffee+%2B+Code" alt="Typing SVG" />
 </div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
 
 <div align="center">
   <br />
-  
-  ### 🎯 Turning Ideas Into Well-Executed Code
   
   <a href="https://github.com/Brian-code-123?tab=followers">
     <img src="https://img.shields.io/github/followers/Brian-code-123?style=social&label=Follow" alt="GitHub Followers"/>
   </a>
   ·
-  <a href="https://github.com/Brian-code-123?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Diverse-brightgreen" alt="Projects"/>
-  </a>
-  ·
-  <a href="https://github.com/Brian-code-123">
-    <img src="https://img.shields.io/badge/Based_In-Code_Universe-blue" alt="Location"/>
-  </a>
 </div>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-I'm a full-stack developer who's a little too obsessed with coding. I love figuring out clean, neat ways to untangle all those tricky technical problems.
+I'm a full-stack developer who's genuinely passionate about building clean, elegant solutions to complex technical problems. I thrive on turning ideas into well-executed digital experiences with both creative vision and technical precision.
 
-I'm always tinkering with new frameworks and tools, catching up with the best practices in the industry, and currently working on some fun projects built with modern front-end technologies.
-
-After years diving into full-stack development, API design, and database optimization, I've always been really passionate about web development, software architecture, and the open-source community.
-
-I've got a small goal too: **to make real contributions to open source, and build products that are actually useful and pleasant to use.**
-
-> If you want to chat about JavaScript, TypeScript, React, Next.js, Node.js, or anything web dev related, feel free to hit me up. 💬
-
-**As for my little quirk?** I'm pretty good at turning cup after cup of hot coffee into working lines of code. ☕
+- 🔭 **Currently working on** fun projects built with modern front-end technologies
+- 🌱 **Always learning** new frameworks, tools, and up-to-date industry best practices
+- 💡 **Passionate about** web development, software architecture, and the open-source community
+- 👨‍💻 **Experience with** full-stack development and API design
+- 🎯 **Goal** to make real open-source contributions and build products that are useful and pleasant to use
+- 💬 **Ask me about** JavaScript, TypeScript, React, Next.js, Node.js, and anything web-dev related
+- ⚡ **Fun fact** I'm pretty good at turning cup after cup of hot coffee into working lines of code ☕
 
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-
-```
-⚙️ Frontend    →  React | Vue.js | Vite | Tailwind CSS | Bootstrap | Radix UI
-                  
-🔧 Backend     →  Node.js | Express.js
-
-💾 Databases   →  MongoDB | MySQL | Firebase
-
-📚 Languages   →  JavaScript | TypeScript | HTML | CSS
-
-🎯 Tools       →  Git | GitHub | Docker | Jest | Postman | VS Code
-```
-
-</div>
-
 <div align="center">
   
   ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
