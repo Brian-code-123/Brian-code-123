@@ -1,159 +1,136 @@
-<div align="center" id="top">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
-  <h1>☕ Hi, I'm Brian</h1>
-  <h3>Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Developer;🎮+Tech+Enthusiast;🔧+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Brian-code-123?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/Brian-code-123?style=social" alt="GitHub Followers"/>
+  <img height="180em" src="https://media.giphy.com/media/SWoRKslHVtqgUpBP4O/giphy.gif" width="260" alt="Coding GIF" />
+  
+  <h1>👋 Hey, I'm Brian!</h1>
+  <h3>Full Stack Developer | Open Source Contributor | Tech Creator</h3>
+  
+  <a href="https://github.com/Brian-code-123?tab=followers">
+    <img src="https://img.shields.io/github/followers/Brian-code-123?style=social&label=Follow" alt="GitHub Followers"/>
   </a>
-
-  <a href="https://github.com/Brian-code-123?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/repos/Brian-code-123?" alt="Total Repositories"/>
+  <a href="https://github.com/Brian-code-123?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-18-blue" alt="Total Repositories"/>
   </a>
-</div>
-
-<p align="center">
-  <a href="#-about-me">About me</a> &#xa0; | &#xa0;
-  <a href="#-tech-stack">Tech Stack</a> &#xa0; | &#xa0;
-  <a href="#-github-stats">Stats</a>
-</p>
-
----
-
-## 📱 About me
-
-I'm a full-stack developer who's a little too obsessed with coding. I love figuring out clean, neat ways to untangle tricky technical problems.
-
-- 🔭 **Currently working on** fun projects built with modern front-end technologies
-- 🌱 **Always learning** new frameworks, tools, and up-to-date industry best practices
-- 💡 **Passionate about** web development, software architecture, and the open-source community
-- 👨‍💻 **Experience with** full-stack development and API design
-- 🎯 **Goal** to make real open-source contributions and build products that are useful and pleasant to use
-- 💬 **Ask me about** JavaScript, TypeScript, React, Next.js, Node.js, and anything web-dev related
-- ⚡ **Fun fact** I'm pretty good at turning cup after cup of hot coffee into working lines of code ☕
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoRKslHVtqgUpBP4O/giphy.gif" width="220" alt="Developer coding GIF" />
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
+
+I'm a full-stack developer who's genuinely passionate about building clean, elegant solutions to complex technical problems. I thrive on turning ideas into well-executed digital experiences with both creative vision and technical precision.
+
+**💡 Philosophy:** Ideas deserve to be well-executed.
+
+**🎯 Goals:** 
+- Build real open-source contributions that matter
+- Create products that are both useful and delightful to use
+- Master the art of full-stack development and system design
+
+**📍 Currently:** Working on innovative projects with modern web technologies  
+**🌱 Always Learning:** New frameworks, tools, and industry best practices
+
+**💬 Ask me about:** JavaScript, TypeScript, React, Vue.js, Node.js, Express, Web Development, or anything tech-related
+
+**☕ Fun Fact:** I'm exceptionally skilled at converting cups of hot coffee into lines of working code!
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,vite,tailwind,bootstrap,nodejs,express,mongodb,mysql,firebase,git,github,docker,jest,postman,vscode&theme=dark" />
+</div>
 
 ### Languages
-<div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img width="50" title="JavaScript" alt="JavaScript Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  </a> &#xa0;
-
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img width="50" title="TypeScript" alt="TypeScript Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  </a> &#xa0;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img width="50" title="HTML" alt="HTML Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  </a> &#xa0;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img width="50" title="CSS" alt="CSS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  </a>
-</div>
+**JavaScript** • **TypeScript** • **HTML** • **CSS**
 
 ### Frontend
-<div>
-  <a href="https://react.dev" target="_blank">
-    <img width="50" title="React" alt="React Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  </a> &#xa0;
-
-  <a href="https://vuejs.org" target="_blank">
-    <img width="50" title="Vue.js" alt="Vue.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  </a> &#xa0;
-
-  <a href="https://vitejs.dev" target="_blank">
-    <img width="50" title="Vite" alt="Vite Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg">
-  </a> &#xa0;
-
-  <a href="https://tailwindcss.com" target="_blank">
-    <img width="50" title="Tailwind CSS" alt="Tailwind CSS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-  </a> &#xa0;
-
-  <a href="https://getbootstrap.com" target="_blank">
-    <img width="50" title="Bootstrap" alt="Bootstrap Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  </a>
-</div>
+**React** • **Vue.js** • **Vite** • **Tailwind CSS** • **Bootstrap** • **Radix UI**
 
 ### Backend
-<div>
-  <a href="https://nodejs.org" target="_blank">
-    <img width="50" title="Node.js" alt="Node.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  </a> &#xa0;
-
-  <a href="https://expressjs.com" target="_blank">
-    <img width="50" title="Express.js" alt="Express.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  </a>
-</div>
+**Node.js** • **Express.js**
 
 ### Databases
-<div>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img width="50" title="MongoDB" alt="MongoDB Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  </a> &#xa0;
+**MongoDB** • **MySQL** • **Firebase**
 
-  <a href="https://www.mysql.com" target="_blank">
-    <img width="50" title="MySQL" alt="MySQL Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  </a> &#xa0;
+### Tools & DevOps
+**Git** • **GitHub** • **Docker** • **Jest** • **Postman** • **VS Code**
 
-  <a href="https://firebase.google.com" target="_blank">
-    <img width="50" title="Firebase" alt="Firebase Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  </a>
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brian-code-123&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-code-123&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
-### Tools & Technologies
-<div>
-  <a href="https://git-scm.com" target="_blank">
-    <img width="50" title="Git" alt="Git Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </a> &#xa0;
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Brian-code-123&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
-  <a href="https://github.com" target="_blank">
-    <img width="50" title="GitHub" alt="GitHub Logo" src="https://skillicons.dev/icons?i=github">
-  </a> &#xa0;
+---
 
-  <a href="https://www.docker.com" target="_blank">
-    <img width="50" title="Docker" alt="Docker Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  </a> &#xa0;
+## 🏆 Featured Projects
 
-  <a href="https://jestjs.io" target="_blank">
-    <img width="50" title="Jest" alt="Jest Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  </a> &#xa0;
+Here are some of my favorite projects I've worked on:
 
-  <a href="https://www.postman.com" target="_blank">
-    <img width="50" title="Postman" alt="Postman Logo" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|-----------|-------|
+| **A-Grade-Amendment-System** | Comprehensive system for grade amendments with intuitive UI | Vue.js, Express, MongoDB | ⭐ |
+| **NoteNest** | Collaborative knowledge base for seamless note-taking | React, Vite, Firebase | ⭐ |
+| **Myself** | Personal portfolio showcasing full-stack capabilities | React, TypeScript, Tailwind | ⭐ |
+
+📌 Check out more projects on my [repositories page](https://github.com/Brian-code-123?tab=repositories)
+
+---
+
+## 🎓 Skills & Expertise
+
+**Full-Stack Development** • **API Design & Architecture** • **Database Optimization**  
+**UI/UX Implementation** • **Cloud Services** • **DevOps & Deployment**  
+**Git & Version Control** • **Testing & QA** • **Open Source Contribution**
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+I'm always excited to chat about web development, tech innovations, or potential collaborations!
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ☕ Support My Work
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brian-code-123&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-code-123&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Brian-code-123&theme=dark" alt="GitHub Streak" />
+  <p>
+    <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    </a>
+  </p>
+  <p><i>Your support helps me continue creating amazing open-source projects! 🙏</i></p>
 </div>
 
 ---
 
 <div align="center">
-  <strong>Thanks for visiting! Have a great day! 😊</strong>
-  <br />
-  <br />
-  ⭐ Feel free to star and follow my repositories if you find them useful!
-  <br />
-  <br />
-  <a href="#top">Back to top</a>
+  <h3>Thanks for visiting! Keep coding, keep learning! 🚀</h3>
+  <a href="#top">⬆️ Back to top</a>
 </div>
