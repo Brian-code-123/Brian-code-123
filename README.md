@@ -35,7 +35,7 @@ I'm a full-stack developer who's a little too obsessed with coding. I love figur
 - ⚡ **Fun fact** I'm pretty good at turning cup after cup of hot coffee into working lines of code ☕
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Coffee coding GIF" />
+  <img src="https://media.giphy.com/media/SWoRKslHVtqgUpBP4O/giphy.gif" width="220" alt="Developer coding GIF" />
 </div>
 
 ---
@@ -67,8 +67,12 @@ I'm a full-stack developer who's a little too obsessed with coding. I love figur
     <img width="50" title="React" alt="React Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a> &#xa0;
 
-  <a href="https://nextjs.org" target="_blank">
-    <img width="50" title="Next.js" alt="Next.js Logo" src="https://skillicons.dev/icons?i=nextjs">
+  <a href="https://vuejs.org" target="_blank">
+    <img width="50" title="Vue.js" alt="Vue.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  </a> &#xa0;
+
+  <a href="https://vitejs.dev" target="_blank">
+    <img width="50" title="Vite" alt="Vite Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg">
   </a> &#xa0;
 
   <a href="https://tailwindcss.com" target="_blank">
@@ -77,25 +81,24 @@ I'm a full-stack developer who's a little too obsessed with coding. I love figur
 
   <a href="https://getbootstrap.com" target="_blank">
     <img width="50" title="Bootstrap" alt="Bootstrap Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  </a> &#xa0;
-
-  <a href="https://jquery.com" target="_blank">
-    <img width="50" title="jQuery" alt="jQuery Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   </a>
 </div>
 
-### Backend & Databases
+### Backend
 <div>
   <a href="https://nodejs.org" target="_blank">
     <img width="50" title="Node.js" alt="Node.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </a> &#xa0;
 
+  <a href="https://expressjs.com" target="_blank">
+    <img width="50" title="Express.js" alt="Express.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  </a>
+</div>
+
+### Databases
+<div>
   <a href="https://www.mongodb.com" target="_blank">
     <img width="50" title="MongoDB" alt="MongoDB Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  </a> &#xa0;
-
-  <a href="https://www.postgresql.org" target="_blank">
-    <img width="50" title="PostgreSQL" alt="PostgreSQL Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   </a> &#xa0;
 
   <a href="https://www.mysql.com" target="_blank">
