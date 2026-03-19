@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Developer;🚀+Open+Source +Enthusiast;⚡+Tech+Explorer;☕+Coffee+%2B+Code" alt="Typing SVG" />
+  <img src="./assets/header.svg" alt="Brian — Full‑Stack Developer" width="700" />
 </div>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
 
 <div align="center">
   <br />
@@ -14,7 +13,7 @@
 
 ---
 
-##  About Me
+## 💻 About Me
 
 I'm a full-stack developer who's genuinely passionate about building clean, elegant solutions to complex technical problems. I thrive on turning ideas into well-executed digital experiences with both creative vision and technical precision.
 
@@ -28,7 +27,8 @@ I'm a full-stack developer who's genuinely passionate about building clean, eleg
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+## 🖥️ Tech Stack
 <div align="center">
   
   ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
