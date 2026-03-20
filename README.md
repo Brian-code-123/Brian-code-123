@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="260" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="160" alt="Coding GIF" />
 </div>
 
 <div align="center">
@@ -16,7 +16,6 @@
   
 </div>
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
----
 
 <div align="center">
 
@@ -63,8 +62,8 @@ I'm a full-stack developer who's genuinely passionate about building clean, eleg
   
   **Made with passion & lots of ☕**
   
-  <a href="https://github.com/Brian-code-123">
-    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://discordapp.com/users/do_jun123">
+   <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/discord.gif" width="100">
   </a>
   
 </div>
