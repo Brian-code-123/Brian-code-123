@@ -11,9 +11,9 @@
   
   <a href="https://github.com/Brian-code-123?tab=followers">
     <img src="https://img.shields.io/github/followers/Brian-code-123?style=social&label=Follow" alt="GitHub Followers"/>
-    <img src="https://komarev.com/ghpvc/?username=Mayur-Pagote&color=blueviolet&style=flat-square&label=Profile+Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Brian-code-123&color=blueviolet&style=flat-square&label=Profile+Views"/>
   </a>
-  ·
+  
 </div>
 
 ---
