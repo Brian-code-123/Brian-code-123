@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="260" alt="Coding GIF" />
 </div>
 
 <div align="center">
@@ -15,12 +15,14 @@
   </a>
   
 </div>
-
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
 ---
 
 <div align="center">
 
 ## 💻 About Me
+
+<img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=default&quoteType=random&bgColor=black"/>
 
 I'm a full-stack developer who's genuinely passionate about building clean, elegant solutions to complex technical problems. I thrive on turning ideas into well-executed digital experiences with both creative vision and technical precision.
 
