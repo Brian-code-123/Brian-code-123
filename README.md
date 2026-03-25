@@ -25,11 +25,11 @@
 
 I'm a full-stack developer who's genuinely passionate about building clean, elegant solutions to complex technical problems. I thrive on turning ideas into well-executed digital experiences with both creative vision and technical precision.
 
-- Currently working on** fun projects built with modern front-end technologies
-- Always learning** new frameworks, tools, and up-to-date industry best practices
-- Passionate about** web development, software architecture, and the open-source community
-- Goal** to make real open-source contributions and build products that are useful and pleasant to use
-- Fun fact** I'm pretty good at turning cup after cup of hot coffee into working lines of code ☕
+- Currently working on fun projects built with modern front-end technologies
+- Always learning new frameworks, tools, and up-to-date industry best practices
+- Passionate about web development, software architecture, and the open-source community
+- Goal to make real open-source contributions and build products that are useful and pleasant to use
+- Fun fact I'm pretty good at turning cup after cup of hot coffee into working lines of code ☕
 
 </div>
 
