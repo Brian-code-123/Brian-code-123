@@ -23,7 +23,7 @@
 
 <img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=default&quoteType=random&bgColor=black"/>
 
-I'm a full-stack developer who's genuinely passionate about building clean, elegant solutions to complex technical problems. I thrive on turning ideas into well-executed digital experiences with both creative vision and technical precision.
+Full-stack dev & perpetual learner. I turn complex 'what-ifs' into functional reality. Currently focused on evolving my skills and writing code clean enough that I won't hate my past self in six months.
 
 - Currently working on fun projects built with modern front-end technologies
 - Always learning new frameworks, tools, and up-to-date industry best practices
