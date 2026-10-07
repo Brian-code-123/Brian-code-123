@@ -39,16 +39,19 @@ Full-stack dev & perpetual learner. I turn complex 'what-ifs' into functional re
 
 ## 🖥️ Tech Stack
 
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06b6d4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3fcf8e?style=flat-square&logo=supabase&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
